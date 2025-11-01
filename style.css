@@ -1,0 +1,33 @@
+body {
+    background-color: paleturquoise;
+}
+
+header{
+            background-color: #6153cc ;
+            color: pink ;
+            text-align: center;
+            border-radius: 30px;
+            padding: 15px;
+            font-family: ;
+        }
+        h1{color: #44ffd1}
+
+        .lessons{
+            background-color: #360a14 ;
+            color: #44ffd1;
+            width: 300px;
+            border-radius: 15px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .lessons img{
+            width: 300px;
+            object-fit: cover;
+        }
+
+        #info{
+            display: flex;
+            gap: 10px;
+    
+        }
